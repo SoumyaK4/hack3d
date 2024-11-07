@@ -1,0 +1,41 @@
+- key: Name
+  value: SoumyaK4
+- key: Description
+  value:
+    - Martial Arts
+    - For
+    - Body & Brain
+  typed: true
+- key: CV
+  value: My Experiences
+  url: https://soumyak4.in/Experiences
+- key: Baduk - Weiqi - Go Game
+  value: Guide / Roadmap 
+  url: https://weiqi.soumyak4.in/
+  
+# - key: Address
+#   value:
+#     - University of Jekyll
+#     - Department of Themes
+#     - 123 Main St, Anytown, USA
+- key: Contact
+  value:
+    - key: Telegram
+      value: Telegram
+      url: https://t.me/SoumyaK4
+#     - key: Phone
+#       value: +1 234 567 890
+#     - key: Email
+#       value: username@domain.com
+#       url: "mailto:username@domain.com"
+# - key: Source
+#   value: piazzai/hacked-jekyll
+#   url: https://github.com/piazzai/hacked-jekyll
+- key: Social Profiles
+  value:
+    - value: Instagram
+      url: https://www.instagram.com/SoumyaK4
+    - value: YouTube
+      url: https://youtube.com/@SoumyaK4
+    - value: Twitch
+      url: https://twitch.tv/SoumyaK4
